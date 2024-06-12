@@ -1,1 +1,1 @@
-airsonicadvanced/airsonic-advanced
+ghcr.io/kagemomiji/airsonic-advanced
